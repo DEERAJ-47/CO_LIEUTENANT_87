@@ -3,7 +3,9 @@
 This project is developed using Machine learning algorithm and Computer Vision
 Language :- Python. 
 
-This project used to ddetect the ppeoplewho
+This project used to ddetect the people who are not following the COVID protocol like wearing mask and not following the social distancing the project can also detect the people who are not following the social distancing in video also. 
+
+Download the yolo weight , dataset , images (for UI background) and Video of your choice (to check the social distancing in video) 
 
 
 ## Getting started
